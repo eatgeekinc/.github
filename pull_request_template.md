@@ -16,5 +16,8 @@
 # Environment changes
 *A bulleted list with all the environment changes.*
 
+# Infrastructure changes
+*A bulleted list with all the infrastructure changes made. We'll need to make this changes on prod before releasing the new version, for example adding VPC Endpoints, NAT Gateways or anything done manually from the AWS console.*
+
 # Database migrations
 *A bulleted list with all the database migrations.*
